@@ -1,3 +1,5 @@
+Patryk 84454, Michał 84457
+
 # FakturoNet
 
 Natywna aplikacja desktopowa w `C#` zbudowana w `Avalonia UI`, bez Electrona i bez warstwy ASP.NET. `Avalonia` pelni tutaj role odpowiednika `WPF` na macOS, a eksport dokumentow jest realizowany przez `QuestPDF`.
